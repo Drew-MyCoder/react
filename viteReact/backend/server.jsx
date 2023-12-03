@@ -1,0 +1,1 @@
+// npm i psql express cors nodemon
